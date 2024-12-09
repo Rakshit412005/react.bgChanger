@@ -1,1 +1,1 @@
-# react.bgChanger
+React-background-changer
